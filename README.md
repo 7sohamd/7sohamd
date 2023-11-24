@@ -1,30 +1,23 @@
-<h2> Hi, I'm Shreyam Maity! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Soham Dey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>Computer Engineering Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 
-[![Twitter: ShreyamMaity](https://img.shields.io/twitter/follow/ShreyamMaity?style=social)](https://twitter.com/ShreyamMaity)
-[![Linkedin: shreyammaity](https://img.shields.io/badge/-shreyammaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/shreyammaity/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shreyam.ml/)](https://shreyam.ml/)
-[![GitHub ShreyamMaity](https://img.shields.io/github/followers/ShreyamMaity?label=follow&style=social)](https://github.com/ShreyamMaity)
-![](https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.ShreyamMaity)
+[![Linkedin: Soham Dey](https://img.shields.io/badge/-Soham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyammaity/)](https://www.linkedin.com/in/soham-dey-891332256/)
+<!-- -[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shreyam.ml/)](https://shreyam.ml/)-->
+[![GitHub Soham Dey](https://img.shields.io/github/followers/7sohamd?label=follow&style=social)](https://github.com/7sohamd)
+<!--![](https://visitor-badge.glitch.me/badge?page_id=ShryeyamMaity.ShreyamMaity)-->
 
-👇 Type in your console or terminal to connect with me.
-
-```bash
-npx shreyam
-```
-**👆 This command line tool can be found at [npx shreyam](https://github.com/ShreyamMaity/npx-card)**
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Full Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎮 Hobbist Game D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" width="30">
+- 💻 Freelancer <img src="https://media0.giphy.com/media/f8zUdNoKMzwnS5dWqU/giphy_s.gif?cid=ecf05e47y51kq3ifxxivuk6xw05912o89t7j8wa09257y8ge&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width="30" >
 <!-- - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Science & Engineering 𝚊𝚝 Netaji Subhash Engineering College, Batch 𝚘𝚏 2021-24 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30"> -->
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/ShreyamMaity) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
-- 🎳 You can play my sample game here [Space Sumo](https://shreyammaity.github.io/spacesumo.github.io/) <img src="https://media.giphy.com/media/ej15KjYzfDdxckdVS2/giphy.gif" width="30">
-- 🎭 𝚋𝚝𝚠 you can connect with me on [LinkedIn](https://www.linkedin.com/in/shreyammaity/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 [GitHub](https://github.com/7sohamd) <img src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="30">
+- 🎳 You can see my freelance work here [YT Jobs](https://ytjobs.co/talent/profile/84523?r=375) <img src="https://media.giphy.com/media/ej15KjYzfDdxckdVS2/giphy.gif" width="30">
+- 🎭 𝚋𝚝𝚠 you can connect with me on [LinkedIn](https://www.linkedin.com/in/soham-dey-891332256/) <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30">
 
 ## <img src="https://media.giphy.com/media/8FrCaIwWJaaBgX9IoQ/giphy.gif" width="50"> Expertise
 
@@ -60,8 +53,8 @@ npx shreyam
 
 ## <img src="https://media.giphy.com/media/LPfvhoIwJj0u239wI9/giphy.gif" width="50"> Quick Overview
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:** 
-<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=ShreyamMaity&langs_count=10&show_icons=true&theme=gotham" alt="ShreyamMaity" /> 
-<p align=""> <img src="https://streak-stats.demolab.com?user=ShreyamMaity&theme=gotham" alt="ShreyamMaity" /></p>
+<p align=""> <img src="https://github-readme-stats.vercel.app/api?username=7sohamd&langs_count=10&show_icons=true&theme=gotham" alt="SohamDey" /> 
+<p align=""> <img src="https://streak-stats.demolab.com?user=7sohamd&theme=gotham" alt="SohamDey" /></p>
 
 - <img src="https://media.giphy.com/media/gCWkRsa39liKgD0GLW/giphy.gif" width="50"> **My Routine:** 
 <!---
@@ -115,11 +108,11 @@ Mac                      34 hrs 29 mins      ███████████�
 <!-- - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
 <p align=""> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyamMaity&show_icons=true&theme=gotham" alt="ShreyamMaity" />  -->
  - **<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Languages I've used most:** 
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyamMaity&theme=tokyonight" alt="ShreyamMaity" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyamMaity&theme=tokyonight" alt="ShreyamMaity" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7sohamd&theme=tokyonight" alt="SohamDey" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7sohamd&theme=tokyonight" alt="SohamDey" />
  
  - **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> My Profile Trophies:**   
- <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=ShreyamMaity&theme=juicyfresh&row=2&column=3" alt=ShreyamMaity />
+ <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=7sohamd&theme=juicyfresh&row=2&column=3" alt=7sohamd />
  
  
 <p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
